@@ -2,6 +2,14 @@
 
 **Authors:** Janik, Macinec, Pomichal, Sefcik
 
+### To-Do
+* add numerical attributes to URL
+* new co-training implementation
+* one classifier with iteration - lower boundary
+* more testing and get average
+* learning plot
+* try prepaired implementations
+
 ### Motivation
 * https://www.youtube.com/watch?v=XTNl5WxklgE
 
